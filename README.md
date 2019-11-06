@@ -1,6 +1,6 @@
 # Small little project for changing assets
 
-# [play floppy bird](https://nebez.github.io/floppybird/)
+# [play floppy bird](https://loqaritm.github.io/floppybird/)
 
 If you missed the Flappy Bird hype, here's your chance to try the best vintage knockoff.
 
@@ -12,7 +12,7 @@ If you missed the Flappy Bird hype, here's your chance to try the best vintage k
 
 Enjoy.
 
-https://nebez.github.io/floppybird/ (or play [**easy mode**](https://nebez.github.io/floppybird/?easy))
+https://loqaritm.github.io/floppybird/ (or play [**easy mode**](https://loqaritm.github.io/floppybird/?easy))
 
 ### Clones
 
